@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graphbasic", "graphbasic\graphbasic.csproj", "{58EB6E12-CF35-4B8F-9F84-9E7694153B8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "graphbasic", "graphbasic\graphbasic.csproj", "{58EB6E12-CF35-4B8F-9F84-9E7694153B8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeSolutions", "BinaryTree\BinaryTreeSolutions\BinaryTreeSolutions.csproj", "{D6F2ACC3-AF27-4451-99CD-D9AD907F3CA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{58EB6E12-CF35-4B8F-9F84-9E7694153B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58EB6E12-CF35-4B8F-9F84-9E7694153B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58EB6E12-CF35-4B8F-9F84-9E7694153B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F2ACC3-AF27-4451-99CD-D9AD907F3CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F2ACC3-AF27-4451-99CD-D9AD907F3CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F2ACC3-AF27-4451-99CD-D9AD907F3CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F2ACC3-AF27-4451-99CD-D9AD907F3CA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
